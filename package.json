@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "@sourcegraph/test-private-package": "^1.0.1"
+  }
+}
